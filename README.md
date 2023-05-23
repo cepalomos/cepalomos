@@ -44,6 +44,8 @@ Busco oportunidades para colaborar en un entorno de trabajo estimulante, donde p
 ## Contacto
 
 [![LinkedIn](https://logo-linkedin)](https://www.linkedin.com/in/cepalomos)
+[![Correo](https://logo-correo)](mailto:cepalomos@outlook.es)
+[![Whatsapp](logo-de-whatsapp)](https://wa.me/573006896576)
 <!--
 **cepalomos/cepalomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
