@@ -20,7 +20,7 @@ Soy un desarrollador Full Stack con experiencia academica en el desarrollo de ap
 ![Node.js](https://ruta-de-la-imagen.com/nodejs-logo.png)
 
 ### React
-![React](https://ruta-de-la-imagen.com/react-logo.png)
+![React](https://asset.cloudinary.com/dysxvxl9w/bbba64e97a45c4b967582c858681b561)
 
 ### Redux
 ![Redux](https://ruta-de-la-imagen.com/redux-logo.png)
