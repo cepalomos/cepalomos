@@ -44,9 +44,9 @@ Busco oportunidades para colaborar en un entorno de trabajo estimulante, donde p
 
 ## Contacto
 
-[![LinkedIn](https://res.cloudinary.com/dysxvxl9w/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1684850694/react50px_lzrojf.jpg?_s=public-apps)](https://www.linkedin.com/in/cepalomos)
-[![Correo](https://logo-correo)](mailto:cepalomos@outlook.es)
-[![Whatsapp](logo-de-whatsapp)](https://wa.me/573006896576)
+[![LinkedIn](https://res.cloudinary.com/dysxvxl9w/image/upload/v1684852168/likendin50px_d2pxul.png)](https://www.linkedin.com/in/cepalomos)
+[![Correo](https://res.cloudinary.com/dysxvxl9w/image/upload/v1684852168/outlook_bki1sc.png)](mailto:cepalomos@outlook.es)
+[![Whatsapp](https://res.cloudinary.com/dysxvxl9w/image/upload/v1684852168/whatsapp_gjw6k3.png)](https://wa.me/573006896576)
 <!--
 **cepalomos/cepalomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
