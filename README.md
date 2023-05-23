@@ -43,7 +43,7 @@ Busco oportunidades para colaborar en un entorno de trabajo estimulante, donde p
 
 ## Contacto
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/cepalomos)
+[![LinkedIn](https://logo-linkedin)](https://www.linkedin.com/in/cepalomos)
 <!--
 **cepalomos/cepalomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
