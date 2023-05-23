@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cepalomos&label=Profile%20views&color=0e75b6&style=flat" alt="mark-kus" /> </p>
 
-## Hola, soy Carlos Eduardo Palomo Serna
+### Hola, soy Carlos Eduardo Palomo Serna
 
 ## Acerca de mí
 Soy un desarrollador Full Stack con experiencia academica en el desarrollo de aplicaciones web. Me especializo en el desarrollo del lado del front-end y back-end utilizando JavaScript, con conocimientos en Node.js, Express y React.
