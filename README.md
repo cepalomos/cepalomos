@@ -44,7 +44,7 @@ Busco oportunidades para colaborar en un entorno de trabajo estimulante, donde p
 
 ## Contacto
 
-[![LinkedIn](https://asset.cloudinary.com/dysxvxl9w/bbba64e97a45c4b967582c858681b561)](https://www.linkedin.com/in/cepalomos)
+[![LinkedIn](https://res.cloudinary.com/dysxvxl9w/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1684850694/react50px_lzrojf.jpg?_s=public-apps)](https://www.linkedin.com/in/cepalomos)
 [![Correo](https://logo-correo)](mailto:cepalomos@outlook.es)
 [![Whatsapp](logo-de-whatsapp)](https://wa.me/573006896576)
 <!--
