@@ -9,7 +9,7 @@ Soy un desarrollador Full Stack con experiencia academica en el desarrollo de ap
 
 ## Servicios
 - Desarrollo del lado del front-end: Creo interfaces de usuario modernas y receptivas utilizando React.
-- Desarrollo del lado del back-end: Construyo API REST robustas y escalables utilizando Node.js y Express.
+- Desarrollo del lado del back-end: Construyo API REST robustas y escalables utilizando Node.js, TypeScript y Express.
 
 ## Tecnologías
 
